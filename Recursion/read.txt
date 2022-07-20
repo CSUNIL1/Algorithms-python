@@ -1,0 +1,3 @@
+The process in which a function calls itself is called recursion and the
+corresponding function is called a recursive function.
+
